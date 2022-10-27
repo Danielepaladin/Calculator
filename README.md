@@ -1,5 +1,3 @@
 # Calculator
 
-
-
-LAAAAA
+Calculator project from The Odin Project.
